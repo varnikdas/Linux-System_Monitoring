@@ -62,7 +62,4 @@ make
 
 
 
-## Screenshots
-![Assignment Outline](images/assignment_outline.jpg)
-
 
