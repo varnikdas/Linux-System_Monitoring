@@ -1,12 +1,12 @@
 # Linux Monitor Tool
 
-![Assignment Outline](Screenshot_2025-11-08_12_34_48.png)
+![Assignment Outline](images/Screenshot_2025-11-08_12_34_48.png)
 
-![Assignment Outline](Screenshot_2025-11-08_12_35_43.png)
+![Assignment Outline](images/Screenshot_2025-11-08_12_35_43.png)
 
-![Assignment Outline](Screenshot_2025-11-08_12_35_34.png)
+![Assignment Outline](images/Screenshot_2025-11-08_12_35_34.png)
 
-![Assignment Outline](Screenshot_2025-11-08_12_34_49.png)
+![Assignment Outline](images/Screenshot_2025-11-08_12_34_49.png)
 
 ## Objective
 Create a system monitor tool in C++ that displays real-time information about system processes, memory usage, and CPU load — similar to the `top` command.
@@ -64,3 +64,4 @@ make
 
 ## Screenshots
 ![Assignment Outline](images/assignment_outline.jpg)
+
